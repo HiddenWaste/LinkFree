@@ -1,0 +1,28 @@
+{
+  "name": "Carter Gordon",
+  "type": "personal",
+  "bio": "Student at DSU",
+  "avatar": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fotakusnotes.com%2Fwp-content%2Fuploads%2F2022%2F03%2FOne-Piece-Chapter-1044-Spoilers-768x526.jpg&f=1&nofb=1",
+  "links": [
+    {
+      "name": "Connect on Linkedin",
+      "url": "https://www.linkedin.com/in/carter-gordon/",
+      "icon": "Linkedin"
+    },
+    {
+      "name": "My Personal Spotify Page",
+      "url": "https://open.spotify.com/user/cartergordon13?si=3e0c60333f5348c6",
+      "icon": "Spotify"
+    }
+  ],
+  "milestones": [
+    {
+      "title": "Started College",
+      "date": "August 2020",
+      "icon": "dollar",
+      "color": "blue",
+      "description": "Started College",
+      "url": "https://www.eddiejaoude.io/"
+    }
+  ]
+}
